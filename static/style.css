@@ -1,0 +1,20 @@
+body{
+margin:1rem;
+padding: 1rem;
+font-family: Arial, sans-serif;
+
+font-size: 16px;
+
+line-height: 1.5;
+text-align: center;
+text-decoration: underline;
+text-decoration-color: #46d313;
+text-decoration-style: solid;
+text-decoration-thickness: 2px; 
+text-shadow: #333 1px 1px 2px;
+text-emphasis-color: #46d313;
+background-color: lab(45.24% 69.56 55.89 / 0.71);
+color: #333;  
+
+
+}
